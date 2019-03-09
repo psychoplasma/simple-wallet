@@ -1,5 +1,5 @@
-# spin-protocol-admin-tool
-Administration App for SpinProtocol decentralized environment
+# simple-wallet
+Simple Ethereum Wallet
 
 ## Installing dependencies
 
@@ -23,8 +23,7 @@ npm install -g browserify
 
 ## Running app
 
-1. Clone sub-project to your local `git clone https://github.com/spinprotocol/ethers.js.git`
-2. `nvm use v8.12.0`
-3. Install sub-project as npm module locally `npm link <path_to_sub_project/ethers.js>`
-4. For development stage run `npm run buildRun-dev` in project directory
-5. For production stage run `npm run buildRun-prod` in project directory
+1. `nvm use v8.12.0`
+2. Install sub-project as npm module locally `npm link <path_to_sub_project/ethers.js>`
+3. For development stage run `npm run buildRun-dev` in project directory
+4. For production stage run `npm run buildRun-prod` in project directory
